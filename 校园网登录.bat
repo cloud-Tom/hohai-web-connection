@@ -1,3 +1,3 @@
 @echo off
-python C:\Users\drt\Desktop\campus_login.py
+python #path 此处填写campus_login.py的下载路径
 pause
