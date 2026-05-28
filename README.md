@@ -1,2 +1,2 @@
 # hohai-web-connection
-一键连接校园网
+##  用于已保存账号密码的
